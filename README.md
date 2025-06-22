@@ -7,7 +7,7 @@
 
 Aplikasi web cerdas yang dibangun dengan Streamlit dan ditenagai oleh model AI dari Hugging Face untuk menganalisis dan mengklasifikasikan teks secara dinamis. Bantu perangi misinformasi dengan mengidentifikasi potensi hoaks, opini, atau fakta dari sebuah artikel berita.
 
-![Hoax Buster Screenshot](https://i.imgur.com/gK9vH4W.png)
+![Hoax Buster Screenshot]([https://i.imgur.com/gK9vH4W.png](https://github.com/AmirulMirdas2/Hoax-Buster-Analisis-Teks-Dinamis/blob/main/image/1.png))
 
 ---
 
