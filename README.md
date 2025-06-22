@@ -115,18 +115,6 @@ Proyek ini masih bisa dikembangkan lebih lanjut. Beberapa ide untuk masa depan:
 
 ---
 
-## 🤝 Berkontribusi
-
-Kontribusi Anda akan membuat proyek ini menjadi lebih baik! Jika Anda punya ide atau perbaikan, jangan ragu untuk:
-
-1.  **Fork** repository ini.
-2.  Buat **Branch** baru (`git checkout -b fitur/NamaFiturBaru`).
-3.  **Commit** perubahan Anda (`git commit -m 'Menambahkan fitur XYZ'`).
-4.  **Push** ke branch tersebut (`git push origin fitur/NamaFiturBaru`).
-5.  Buka sebuah **Pull Request**.
-
----
-
 ## 📜 Lisensi
 
 Proyek ini dilisensikan di bawah **MIT License**. Lihat file `LICENSE` untuk detail lebih lanjut.
